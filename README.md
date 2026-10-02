@@ -1,4 +1,6 @@
 # visit-with-us-mlops
+
+🚀 **Live app:** https://naidu1999-tourism-app.hf.space
 Tourism_project
 # 🏞️ Visit With Us - MLOps Tourism Project
 
